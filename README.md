@@ -3,3 +3,7 @@
 ### Overview
 
 ### Functionality
+
+### Design
+
+### Tech Stack
